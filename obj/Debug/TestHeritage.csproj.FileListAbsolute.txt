@@ -1,0 +1,11 @@
+C:\Users\lampi\VisualStudio Projects\TestHeritage\bin\Debug\TestHeritage.exe.config
+C:\Users\lampi\VisualStudio Projects\TestHeritage\bin\Debug\TestHeritage.exe
+C:\Users\lampi\VisualStudio Projects\TestHeritage\bin\Debug\TestHeritage.pdb
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.csproj.AssemblyReference.cache
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.csproj.SuggestedBindingRedirects.cache
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.frmDiffusion.resources
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.Properties.Resources.resources
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.csproj.GenerateResource.cache
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.csproj.CoreCompileInputs.cache
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.exe
+C:\Users\lampi\VisualStudio Projects\TestHeritage\obj\Debug\TestHeritage.pdb
